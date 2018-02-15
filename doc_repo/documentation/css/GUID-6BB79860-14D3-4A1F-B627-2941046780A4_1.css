@@ -1,0 +1,1242 @@
+div.Title
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 18pt;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Title_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Title_inner
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 18pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Body
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Body_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Body_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Child_Topics_Link_Pool_Open
+{
+  border-top-color: black;
+  border-top-style: solid;
+  border-top-width: 2pt;
+  font-family: 'Franklin Gothic Book';
+  font-size: 0;
+  font-weight: bold;
+  margin-bottom: 1pt;
+  margin-top: 1pt;
+}
+
+.Child_Topics_Link_Pool_Open_outer
+{
+  border-top-color: black;
+  border-top-style: solid;
+  border-top-width: 2pt;
+  margin-bottom: 1pt;
+  margin-top: 1pt;
+}
+
+.Child_Topics_Link_Pool_Open_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 0;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Child_Topics_Link_Pool_Close
+{
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  border-bottom-width: 2pt;
+  font-family: 'Franklin Gothic Book';
+  font-size: 0;
+  font-weight: bold;
+  margin-bottom: 1pt;
+  margin-top: 1pt;
+}
+
+.Child_Topics_Link_Pool_Close_outer
+{
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  border-bottom-width: 2pt;
+  margin-bottom: 1pt;
+  margin-top: 1pt;
+}
+
+.Child_Topics_Link_Pool_Close_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 0;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Child_Topic
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 18pt;
+}
+
+.Child_Topic_outer
+{
+}
+
+.Child_Topic_inner
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Heading_1
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 14pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Heading_1_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Heading_1_inner
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 14pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Short_Description
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Short_Description_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Short_Description_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Section
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Section_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Section_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Section_Title
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Section_Title_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Section_Title_inner
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Note
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Note_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Note_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.attention
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.attention_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.attention_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.caution
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.caution_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.caution_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.danger
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.danger_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.danger_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Table_Cell_Head
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 4pt;
+  margin-top: 4pt;
+}
+
+.Table_Cell_Head_outer
+{
+  margin-bottom: 4pt;
+  margin-top: 4pt;
+}
+
+.Table_Cell_Head_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Table_Cell
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 4pt;
+  margin-top: 4pt;
+}
+
+.Table_Cell_outer
+{
+  margin-bottom: 4pt;
+  margin-top: 4pt;
+}
+
+.Table_Cell_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Parent_Topics_Link_Pool_Open
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+.Parent_Topics_Link_Pool_Open_outer
+{
+}
+
+.Parent_Topics_Link_Pool_Open_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Parent_Topic
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 18pt;
+}
+
+.Parent_Topic_outer
+{
+}
+
+.Parent_Topic_inner
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.List_1
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 6pt;
+  margin-left: 18pt;
+  margin-top: 6pt;
+  text-indent: -18pt;
+}
+
+.List_1_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.List_1_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.keep-with-next
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.keep-with-next_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.keep-with-next_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.List_1_Continued
+{
+  font-family: 'Franklin Gothic Book';
+  margin-left: 18pt;
+}
+
+.List_1_Continued_outer
+{
+}
+
+.List_1_Continued_inner
+{
+  font-family: 'Franklin Gothic Book';
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Context
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Context_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Context_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Prerequisite
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Prerequisite_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Prerequisite_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Step_1
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 3pt;
+  margin-left: 18pt;
+  margin-top: 3pt;
+  text-indent: -18pt;
+}
+
+.Step_1_outer
+{
+  margin-bottom: 3pt;
+  margin-top: 3pt;
+}
+
+.Step_1_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Step_1_Continued
+{
+  font-family: 'Franklin Gothic Book';
+  margin-left: 18pt;
+}
+
+.Step_1_Continued_outer
+{
+}
+
+.Step_1_Continued_inner
+{
+  font-family: 'Franklin Gothic Book';
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Step_Example_1
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-left: 18pt;
+  margin-top: 6pt;
+}
+
+.Step_Example_1_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Step_Example_1_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Step_Info_1
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-left: 18pt;
+  margin-top: 6pt;
+}
+
+.Step_Info_1_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Step_Info_1_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Step_Result_1
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-left: 18pt;
+  margin-top: 6pt;
+}
+
+.Step_Result_1_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Step_Result_1_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Example
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Example_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Example_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Postrequisite
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Postrequisite_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Postrequisite_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Figure
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Figure_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Figure_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Figure_Title
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Figure_Title_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Figure_Title_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Numbered_1
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 3pt;
+  margin-left: 18pt;
+  margin-top: 3pt;
+  text-indent: -18pt;
+}
+
+.Numbered_1_outer
+{
+  margin-bottom: 3pt;
+  margin-top: 3pt;
+}
+
+.Numbered_1_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Figure_1
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-left: 18pt;
+  margin-top: 6pt;
+}
+
+.Figure_1_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Figure_1_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Figure_Title_1
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-left: 18pt;
+  margin-top: 6pt;
+}
+
+.Figure_Title_1_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Figure_Title_1_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Step_optional_1
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 3pt;
+  margin-left: 18pt;
+  margin-top: 3pt;
+  text-indent: -18pt;
+}
+
+.Step_optional_1_outer
+{
+  margin-bottom: 3pt;
+  margin-top: 3pt;
+}
+
+.Step_optional_1_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Step_optional_1_Continued
+{
+  font-family: 'Franklin Gothic Book';
+  margin-left: 18pt;
+}
+
+.Step_optional_1_Continued_outer
+{
+}
+
+.Step_optional_1_Continued_inner
+{
+  font-family: 'Franklin Gothic Book';
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Body_1
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 6pt;
+  margin-left: 18pt;
+  margin-top: 6pt;
+}
+
+.Body_1_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Body_1_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Substep_2
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-bottom: 3pt;
+  margin-left: 36pt;
+  margin-top: 3pt;
+  text-indent: -18pt;
+}
+
+.Substep_2_outer
+{
+  margin-bottom: 3pt;
+  margin-top: 3pt;
+}
+
+.Substep_2_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Result
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Result_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Result_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Heading_2
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 13pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Heading_2_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Heading_2_inner
+{
+  color: #5F9031;
+  font-family: 'Franklin Gothic Book';
+  font-size: 13pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Preformatted_1
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 11pt;
+  margin-left: 18pt;
+  white-space: pre;
+}
+
+.Preformatted_1_outer
+{
+}
+
+.Preformatted_1_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 11pt;
+  white-space: pre;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+div.Table_Title
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Table_Title_outer
+{
+  margin-bottom: 6pt;
+  margin-top: 6pt;
+}
+
+.Table_Title_inner
+{
+  font-family: 'Franklin Gothic Book';
+  font-size: 12pt;
+  font-weight: bold;
+  margin-left: 0pt;
+  margin-right: 0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+}
+
+span.Bold
+{
+  font-weight: bold;
+}
+
+span.Italic
+{
+  font-style: italic;
+}
+

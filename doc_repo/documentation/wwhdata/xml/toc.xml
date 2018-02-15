@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebWorksHelpTOC version="5.0" xmlns="urn:WebWorks-Help-TOC-Schema">
+  <i t="Copyright Statement" l="0" />
+  <i t="Preface" l="1">
+    <i t="Document conventions" l="2" />
+    <i t="Resources" l="3" />
+    <i t="Document feedback" l="4" />
+    <i t="Contacting Technical Support" l="5" />
+  </i>
+  <i t="About This Document" l="6">
+    <i t="Supported Hardware and Software" l="7" />
+    <i t="What's New in This Document" l="8" />
+  </i>
+  <i t="Getting Started" l="9">
+    <i t="Launching and Logging in to Spectre" l="10" />
+    <i t="Spectre Overview" l="11" />
+  </i>
+  <i t="Initial Setup and Configuration" l="12">
+    <i t="Discovering a Fabric" l="13" />
+    <i t="Configure Service Notifications" l="14">
+      <i t="Configure Call Home" l="15" />
+      <i t="Configure Email Server" l="16" />
+      <i t="Register the Server as Syslog and SNMP Trap Recipient" l="17" />
+      <i t="Forward SNMP Traps and Syslog Messages" l="18" />
+    </i>
+    <i t="Configure Roles, AORs, and Users" l="19" />
+    <i t="Configure AAA Services" l="20" />
+    <i t="Configure MAPS Policies" l="21" />
+    <i t="Create Views and Dashboards" l="22" />
+    <i t="Checking fabric status" l="23" />
+  </i>
+  <i t="Transitioning from Brocade Network Advisor" l="24">
+    <i t="Spectre - BNA Comparison" l="25" />
+  </i>
+</WebWorksHelpTOC>
